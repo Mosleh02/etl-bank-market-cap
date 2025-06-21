@@ -17,6 +17,7 @@ A Python-based ETL pipeline that extracts data from a static Wikipedia snapshot,
 
 ## 📁 Project Structure
 
+```
 etl-bank-market-cap/
 │
 ├── data/ # Optional: contains input CSVs
@@ -33,7 +34,7 @@ etl-bank-market-cap/
 ├── requirements.txt
 ├── README.md
 └── LICENSE # Optional: e.g., MIT License
-
+```
 ## Setup Instructions
 
 ### 1. Clone the Repository
