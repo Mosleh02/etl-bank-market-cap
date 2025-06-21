@@ -88,7 +88,7 @@ Full table preview
 | ------------- | --------------------------- |
 | Language      | Python 3                    |
 | Web Scraping  | `requests`, `BeautifulSoup` |
-| Data Handling | `pandas`, `numpy`           |
+| Data Handling | `pandas`                    |
 | Database      | PostgreSQL, `SQLAlchemy`    |
 | Environment   | `.env`, `python-dotenv`     |
 | Logging       | `datetime`, file I/O        |
