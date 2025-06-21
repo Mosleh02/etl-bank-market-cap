@@ -104,5 +104,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 
 ## Author
-Abdulrahman Mosleh
-[Linkedin](www.linkedin.com/in/abdulrahman-mosleh-5a3147257) | [Github](https://github.com/Mosleh02)
+Abdulrahman Mosleh  
+[LinkedIn](https://www.linkedin.com/in/abdulrahman-mosleh-5a3147257) | [GitHub](https://github.com/Mosleh02)
+
